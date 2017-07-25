@@ -1,4 +1,4 @@
-package com.study.singleton;
+package com.study.designPattern.singleton;
 
 /**
  * Created by Administrator on 2017/7/25.
